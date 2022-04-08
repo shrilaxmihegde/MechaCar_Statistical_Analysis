@@ -1,3 +1,16 @@
+# Overview of the project:
+AutosRUs' new MechaCar is "suffering from production troubles" and the company is hoping that an analytical review may help provide some insight. The goal of this project is to:
+
+# Purpose :
+1. Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
+
+2. Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
+
+3. Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
+
+4. Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis. 
+
+## Result :
 # Linear Regression to Predict MPG
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -41,18 +54,17 @@ Another thing is
 
 1. What metric or metrics are you going to test?
 
-. Safety Feature Rating: Independent Variable
-. Current Price (Selling): Dependent Variable
-. Drive Package : Independent Variable
-. Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
-. Resale Value: Independent Variable
-. Average Annual Cost of ownership (Maintenance): Independent Variable
-. MPG (Gasoline Efficiency): Independent Variable
-. cost : (Income) : Independent Variable.
+  * Safety Feature Rating: Independent Variable
+  * Current Price (Selling): Dependent Variable
+   * Drive Package : Independent Variable
+   * Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+   * Resale Value: Independent Variable
+   * Average Annual Cost of ownership (Maintenance): Independent Variable
+   * MPG (Gasoline Efficiency): Independent Variable
+   * cost : (Income) : Independent Variable.
+
 
 2. What is the null hypothesis or alternative hypothesis?
-
-## Hypothesis: Null and Alternative :
 
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its classification
 Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its category.
